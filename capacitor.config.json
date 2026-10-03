@@ -1,0 +1,7 @@
+{
+  "appId": "lk.alphaphysics.admin",
+  "appName": "Alpha Admin",
+  "webDir": "www",
+  "backgroundColor": "#020617",
+  "android": { "allowMixedContent": false }
+}
